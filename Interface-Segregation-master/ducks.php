@@ -1,10 +1,5 @@
 <?php
-/**
- * Este código se utilizó de ejemplo para ilustrar el principio de segregación
- * de interfaces, para el canal de youtube Código y Café.
- *
- * Para ver el video de explicación: https://youtu.be/BaNEVg4tAzQ
- */
+
 
 interface CanPlay
 {
